@@ -1,5 +1,5 @@
 #!/bin/bash
-REPOSITORIES=(Warbud.Revit.Server)
+REPOSITORIES=(Warbud.Revit.Installer Warbud.Revit.Nugets Warbud.Revit.Client)
 
 for REPOSITORY in ${REPOSITORIES[*]}
 do
