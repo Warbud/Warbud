@@ -1,5 +1,7 @@
 # Warbud
 
+Microservices root project to manage files structure.
+
 Clone this repository and run git-clone.sh
 
 [Warbud.Users](https://github.com/Nairda015/Warbud.Users)  
