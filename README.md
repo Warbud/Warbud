@@ -7,6 +7,7 @@ Clone this repository and run git-clone.sh
 [Warbud.Users](https://github.com/Nairda015/Warbud.Users)  
 [Warbud.ReverseProxy](https://github.com/Nairda015/Warbud.ReverseProxy)  
 [Warbud.Shared](https://github.com/Nairda015/Warbud.Shared)  
+[Warbud.Mail](https://github.com/Nairda015/Warbud.Mail)
 
 [Warbud.Revit.Server](https://github.com/Nairda015/Warbud.Revit.Server)  
 [Warbud.Revit.GQL](https://github.com/Nairda015/Warbud.Revit.GQL)  
