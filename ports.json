@@ -9,5 +9,6 @@
   "WSProApi": 4010,
   "BimWarbudClient": 5000,
   "BimWarbudApi": 5010,
-  "Photo360": 7000
+  "Photo360": 7000,
+  "Mail" : 7010
 }

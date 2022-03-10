@@ -4,3 +4,8 @@ obj/
 riderModule.iml
 /_ReSharper.Caches/
 .idea/
+Warbud.Mail/
+Warbud.ReverseProxy/
+Warbud.Shared/
+Warbud.Users/
+Warbud.Revit/Warbud.Revit.Server/
